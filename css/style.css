@@ -165,6 +165,13 @@ ul.topnav li.right {float: right;}
     transition: transform .5s;
 }
 
+.icon_box_index{
+    height: clamp(75px,15vw,150px);
+    width: clamp(75px,15vw,150px);
+    background-size:contain;
+    transition: transform .5s;
+}
+
 .icon_box:hover {
   transform:scale(1.2);
 }

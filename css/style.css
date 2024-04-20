@@ -91,14 +91,15 @@ ul.topnav li.right {float: right;}
      /*background-image:url("../images/tom_toronto_1.JPG");    */
 }
 
-.certification-banner{
+.certification_banner{
     text-align: center;
     font-family: helvetica;
-    background-color: red;
+    color: red;
     font-size: 32px;
     font-weight:bold;
     height: 200px;
-    width: 100%;
+    width: 100%; 
+    /*background-attachment: fixed;*/
     margin: 0 auto;
     z-index: 1;
     display: flex;
@@ -107,6 +108,7 @@ ul.topnav li.right {float: right;}
     flex-direction:column;
     justify-content: center;
     align-items: center;
+     /*background-image:url("../images/tom_toronto_1.JPG");    */
 }
 
 .shade_box {

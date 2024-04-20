@@ -32,7 +32,7 @@
         
         <div class="main">
 
-            <div class="certification-banner">
+            <div class="certification_banner">
 
             </div>
 

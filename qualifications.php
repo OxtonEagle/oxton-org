@@ -36,11 +36,11 @@
             </div>
 
             
-            <!---------------- Azure ---------------------------------->
+            <!---------------- Cloud ---------------------------------->
             
             <div class="container" style="height:100%;width:clamp(350px, 70vw, 800px);text-align:left;margin-top:3vw;">
                     
-                <h1 style="margin-top:50px;color:rgb(94,144,253);font-size:clamp(8px, 6vw, 36px);">Microsoft Azure</h1>
+                <h1 style="margin-top:50px;color:rgb(94,144,253);font-size:clamp(8px, 6vw, 36px);">Cloud Technologies</h1>
                 
                 <div class="divider"></div></br></br>
                 
@@ -59,7 +59,26 @@
                 </div>
 
             </div>
+ 
+            <!---------------- Other ---------------------------------->
             
+            <div class="container" style="height:100%;width:clamp(350px, 70vw, 800px);text-align:left;margin-top:3vw;">
+                    
+                <h1 style="margin-top:50px;color:rgb(94,144,253);font-size:clamp(8px, 6vw, 36px);">Cloud Technologies</h1>
+                
+                <div class="divider"></div></br></br>
+                
+                
+                <div class="flex-container">
+                    
+                    <a href="https://verify.skilljar.com/c/82h6qps7853z">
+                        <div class="icon_box" style="background-image:url('images/snaplogic-accreditation.png');margin-right:2vw;"></div>
+                    </a>
+                    
+                </div>
+
+            </div>            
+
             <!-- <a style="font-size:clamp(7px, 6vw, 16px);" href="https://learn.microsoft.com/api/credentials/share/en-gb/TomJohnson-0260/72A457F66C1D9DDD?sharingId=62CB9E685ABB839">View Certification</a> -->
             <!-- <a style="font-size:clamp(7px, 6vw, 16px);" href="https://learn.microsoft.com/api/credentials/share/en-gb/TomJohnson-0260/AF3430911E1BCE58?sharingId=62CB9E685ABB839">View Certification</a> -->
 

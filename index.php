@@ -35,13 +35,13 @@
             <div class="banner" style="height:200px;background-color:white;">
                 <div class="flex-container">
                     <a href="https://learn.microsoft.com/api/credentials/share/en-gb/TomJohnson-0260/72A457F66C1D9DDD?sharingId=62CB9E685ABB839">
-                        <div class="icon_box_index" style="background-image:url('images/dp900_icon.png');margin-right:2vw;"></div>
+                        <div class="icon_box" style="background-image:url('images/dp900_icon.png');margin-right:2vw;"></div>
                     </a>
                     <a href="https://learn.microsoft.com/api/credentials/share/en-gb/TomJohnson-0260/AF3430911E1BCE58?sharingId=62CB9E685ABB839">
-                        <div class="icon_box_index" style="background-image:url('images/az900_icon.png');margin-right:2vw;"></div>
+                        <div class="icon_box" style="background-image:url('images/az900_icon.png');margin-right:2vw;"></div>
                     </a>
                     <a href="https://verify.skilljar.com/c/82h6qps7853z">
-                        <div class="icon_box_index" style="background-image:url('images/snaplogic-accreditation.png');margin-right:2vw;"></div>
+                        <div class="icon_box" style="background-image:url('images/snaplogic-accreditation.png');margin-right:2vw;"></div>
                     </a>
                 </div>
             </div>

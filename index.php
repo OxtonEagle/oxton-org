@@ -32,7 +32,7 @@
         
         <div class="main">
 
-            <div class="banner" style="height:200px;color:red;">
+            <div class="banner" style="height:200px;background-color:white;">
 
             </div>
 

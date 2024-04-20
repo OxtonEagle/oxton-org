@@ -33,7 +33,7 @@
         <div class="main">
 
             <div class="banner" style="height:200px;background-color:white;">
-            <div class="flex-container" style="height:75%">
+                <div class="flex-container" style="height:50%">
                     <a href="https://learn.microsoft.com/api/credentials/share/en-gb/TomJohnson-0260/72A457F66C1D9DDD?sharingId=62CB9E685ABB839">
                         <div class="icon_box" style="background-image:url('images/dp900_icon.png');margin-right:2vw;"></div>
                     </a>

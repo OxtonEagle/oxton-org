@@ -91,25 +91,6 @@ ul.topnav li.right {float: right;}
      /*background-image:url("../images/tom_toronto_1.JPG");    */
 }
 
-.certification_banner{
-    text-align: center;
-    font-family: helvetica;
-    color: red;
-    font-size: 32px;
-    font-weight:bold;
-    height: 200px;
-    width: 100%; 
-    /*background-attachment: fixed;*/
-    margin: 0 auto;
-    z-index: 1;
-    display: flex;
-    background-size: cover;
-    background-position: center;
-    flex-direction:column;
-    justify-content: center;
-    align-items: center;
-     /*background-image:url("../images/tom_toronto_1.JPG");    */
-}
 
 .shade_box {
     position: absolute;

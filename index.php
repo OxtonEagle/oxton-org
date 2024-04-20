@@ -32,6 +32,10 @@
         
         <div class="main">
 
+            <div class="banner" style="background-color:red;">
+
+            </div>
+
             <div class="paragraph_wrapper">
                 <a>This site is my <blue>professional portfolio</blue>, which I aim to keep up to date with my completed <blue>projects</blue>, published<blue> blog articles</blue> and <blue>qualifications/certifications</blue>. </a>
             </div></br></br>

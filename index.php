@@ -23,7 +23,7 @@
         
 <!------------------------------------ main body ---------------------------------------->
 
-        <div class="banner" style="background-image: url('images/tom_morocco.JPG');">
+        <div class="banner" style="background-image: url('images/tom-skiing.jpg');">
             <div class="shade_box"></div>
             
             <h1 style="z-index:3;font-size:clamp(12px, 10vw, 64px);">Hi, I'm Tom.</h1> <!-- clamp(min,max,preferred)  --> 

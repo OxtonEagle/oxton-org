@@ -61,9 +61,9 @@ img {vertical-align: middle;}
                 <img src="images/tom-toronto.jpg" style="width:100%">
             </div>
 
-            <!-- <div class="shade_box"></div> -->
+            <div class="shade_box"></div>
             
-            <h1 style="z-index:3;font-size:clamp(12px, 10vw, 64px);position:absolute;">Hi, I'm Tom.</h1></br></br>
+            <h1 style="margin-top:-15%;z-index:3;font-size:clamp(12px, 10vw, 64px);position:absolute;">Hi, I'm Tom.</h1></br></br>
             <p style="z-index:3;color:rgb(94,144,253);margin-top:-10px;font-size:clamp(6px, 5vw, 32px);position:absolute;">Welcome to my Personal Site!</p>
         </div>
         

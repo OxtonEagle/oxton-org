@@ -1,4 +1,49 @@
 <!DOCTYPE html>
+<style>
+* {box-sizing: border-box;}
+body {font-family: Verdana, sans-serif;}
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+</style>
+
+<script>
+let slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  let dots = document.getElementsByClassName("dot");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+
+  slides[slideIndex-1].style.display = "block";  
+  setTimeout(showSlides, 8000); // Change image every 2 seconds
+}
+</script>
 
     <head>
         <title>Tom Johnson</title>
@@ -23,7 +68,17 @@
         
 <!------------------------------------ main body ---------------------------------------->
 
-        <div class="banner" style="background-image: url('images/tom-skiing.jpg');">
+        <!-- <div class="banner" style="background-image: url('images/tom-skiing.jpg');"> -->
+        <div class="banner">
+
+            <div class="mySlides fade">
+                <img src="tom-skiing.jpg" style="width:100%">
+            </div>
+
+            <div class="mySlides fade">
+                <img src="tom-toronto.jpg" style="width:100%">
+            </div>
+
             <div class="shade_box"></div>
             
             <h1 style="z-index:3;font-size:clamp(12px, 10vw, 64px);">Hi, I'm Tom.</h1> <!-- clamp(min,max,preferred)  --> 
@@ -88,6 +143,8 @@
         <div class="footer"> 
             <p style="margin-top:clamp(10px,5%,40px);">Copyright stuff, or something.</p> 
         </div>
+
+
     </body>
     
 </html>

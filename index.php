@@ -79,7 +79,7 @@ function showSlides() {
                 <img src="images/tom-toronto.jpg" style="width:100%">
             </div>
 
-            <div class="shade_box"></div>
+            <!-- <div class="shade_box"></div> -->
             
             <h1 style="z-index:3;font-size:clamp(12px, 10vw, 64px);">Hi, I'm Tom.</h1> <!-- clamp(min,max,preferred)  --> 
             <p style="z-index:3;color:rgb(94,144,253);margin-top:-10px;font-size:clamp(6px, 5vw, 32px);">Welcome to my Personal Site!</p>

@@ -54,11 +54,11 @@ img {vertical-align: middle;}
         <div class="banner">
 
             <div class="mySlides fade">
-                <img src="images/tom-skiing.jpg" style="width:100%">
+                <img src="images/tom-skiing.jpg" style="height:100%;width:100%;">
             </div>
 
             <div class="mySlides fade">
-                <img src="images/tom-toronto.jpg" style="width:100%">
+                <img src="images/tom-toronto.jpg" style="height:100%;width:100%;">
             </div>
 
             <div class="shade_box"></div>

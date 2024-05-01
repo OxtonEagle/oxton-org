@@ -72,11 +72,11 @@ function showSlides() {
         <div class="banner">
 
             <div class="mySlides fade">
-                <img src="tom-skiing.jpg" style="width:100%">
+                <img src="images/tom-skiing.jpg" style="width:100%">
             </div>
 
             <div class="mySlides fade">
-                <img src="tom-toronto.jpg" style="width:100%">
+                <img src="images/tom-toronto.jpg" style="width:100%">
             </div>
 
             <div class="shade_box"></div>
